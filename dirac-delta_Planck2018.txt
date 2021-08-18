@@ -1,6 +1,6 @@
 # 95% CL limits on Dirac-delta spike spectrum using Planck 2018 data (TT,TE,EE,lowE+lensing)
 # Limits bigger than unity are given as zero since they are meaningless
-# See xxxx.xxxx for more detail
+# See arXiv:2108.07798 for more detail
 # Columns are: k_0 CI CIP BI BCI
 
 1.000000e+00 7.393951e-01 2.086899e-01 1.673093e-01 6.726462e-02

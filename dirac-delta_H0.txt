@@ -1,5 +1,5 @@
 # Means and 68% CL intervals of H0 with Dirac-delta spike spectrum using Planck 2018 data (TT,TE,EE,lowE+lensing)
-# See xxxx.xxxx for more detail
+# See arXiv:2108.07798 for more detail
 # Columns are: k_0 CI(Mean) CI(-1sigma) CI(+1sigma) CIP(Mean) CIP(-1sigma) CIP(+1sigma) BI(Mean) BI(-1sigma) BI(+1sigma) BCI(Mean) BCI(-1sigma) BCI(+1sigma) 
 
 1.000000e+00 6.720291e+01 -5.664308e-01 5.664397e-01 6.775207e+01 -6.582970e-01 6.028949e-01 6.769929e+01 -6.087949e-01 5.938451e-01 6.750250e+01 -5.689241e-01 5.589125e-01

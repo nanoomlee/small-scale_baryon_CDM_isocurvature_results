@@ -1,6 +1,6 @@
 # Means and 68% CL intervals of H0 with power-law spectrum with spectral index n_I
 # using Planck 2018 data (TT,TE,EE,lowE+lensing)
-# See xxxx.xxxx for more detail
+# See arXiv:2108.07798 for more detail
 # Columns are: n_I CI(Mean) CI(-1sigma) CI(+1sigma) CIP(Mean) CIP(-1sigma) CIP(+1sigma) BI(Mean) BI(-1sigma) BI(+1sigma) BCI(Mean) BCI(-1sigma) BCI(+1sigma)
 
 -1 6.720454e+01 -5.819751e-01 5.833352e-01 6.774135e+01 -6.315581e-01 5.988332e-01 6.769081e+01 -6.294735e-01 5.717990e-01 6.749638e+01 -5.752383e-01 5.457980e-01

@@ -1,6 +1,6 @@
 # Forecasted 95% CL sensitivities on power-law spectrum
 # with spectral index n_I for CMB Stage-4
-# See xxxx.xxxx for more detail
+# See arXiv:2108.07798 for more detail
 # Columns are: n_I CI BI/CIP BCI
 
 -1. 1.675654e-04 1.177276e-04 3.770495e-05

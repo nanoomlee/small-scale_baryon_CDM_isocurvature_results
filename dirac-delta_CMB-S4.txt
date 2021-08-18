@@ -1,5 +1,5 @@
 # Forecasted 95% CL sensitivities on Dirac-delta spike spectrum for CMB Stage-4
-# See xxxx.xxxx for more detail
+# See arXiv:2108.07798 for more detail
 # Columns are: k_0 CI BI/CIP BCI
 
 
